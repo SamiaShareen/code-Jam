@@ -36,6 +36,9 @@ void fun(int x){
     printf("\n");
     fun(x+1);
 }
+
+//git github amr jibon dhonshow
+
 int main(){
     scanf("%d",&n);
     fun(1);
