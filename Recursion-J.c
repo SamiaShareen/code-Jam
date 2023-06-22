@@ -16,6 +16,7 @@ int isvowel(char ch){
 }
 
 // main code start from here
+
 int n;
 long long fac(int x){
     if(x==1) return x;
